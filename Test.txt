@@ -6,3 +6,5 @@ The second file.
 >>>>>>> Local commit
 
 First change in test.
+
+Second change in test
