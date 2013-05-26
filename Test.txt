@@ -1,2 +1,8 @@
 The second file.
+<<<<<<< HEAD
 #Changed from remote.
+=======
+#Changed from local
+>>>>>>> Local commit
+
+First change in test.
