@@ -1,6 +1,8 @@
 The second file.
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Changed from local
 =======
 #Changed from remote.
 >>>>>>> b4bbe1282de171ad5c2175249d01f914a4e5236a
+=======
